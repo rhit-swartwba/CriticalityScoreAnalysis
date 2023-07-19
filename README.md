@@ -1,4 +1,6 @@
 # CriticalityScoreAnalysis
 Analysis and Improvement of the Criticality Score Algorithm
 
-See the 
+See the following Excel sheets:
+
+
